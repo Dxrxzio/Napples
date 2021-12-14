@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903920161858",
+    "project_id": "napples-56836",
+    "storage_bucket": "napples-56836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903920161858:android:2c97ceb7e2f64b52c189db",
+        "android_client_info": {
+          "package_name": "com.example.napples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903920161858-jbm3vumbrofp1f99pngt8d50oo1efpc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIT6wQvHmS7OYAyqNz0o5qKchfXiSFSTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903920161858-jbm3vumbrofp1f99pngt8d50oo1efpc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
